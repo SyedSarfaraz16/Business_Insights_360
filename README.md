@@ -1,7 +1,8 @@
 # Business-Insights-360
 
-Welcome to Business Insights 360 – Your Portal to Data-Driven Decision-Making!
+Welcome to Business Insights 360 Project Repository! 🔍📊
 
+## Overview
 This project features an in-depth Power BI dashboard designed to analyze and visualize critical performance metrics across multiple departments at AtliQ Hardware. It delivers actionable insights into finance, sales, marketing, supply chain, and executive operations, enabling stakeholders to make informed, strategic decisions for business growth.
 
 ## Live Dashboard :
@@ -60,6 +61,10 @@ Here is the report link you can explore it [click here](https://app.powerbi.com/
 - Retailer
 - Consumer
 - Distributors
+
+## Prerequisites
+- [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+- [DAX Studio](https://daxstudio.org/)
 
 ## Acknowledgments
 Special thanks to mentors, Hemanand Vadivel and Dhaval Patel. This project was part of the Power BI course offered by CodeBasis.
